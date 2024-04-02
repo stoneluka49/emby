@@ -1,11 +1,6 @@
 # NAME: Emby
-# AUTHOR: justdoiting
+# AUTHOR: stoneluka
 # REPO: https://github.com/justdoiting/emby-rules
-# UPDATED: 2024-02-25 16:05:10
-# DOMAIN: 3
-# DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 44
-# TOTAL: 50
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
