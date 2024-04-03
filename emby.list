@@ -1,6 +1,7 @@
 # NAME: Emby
 # AUTHOR: stoneluka
 # REPO: https://github.com/justdoiting/emby-rules
+# 整理各位大佬的结合自己使用中遇到的一些emby服务器，仅用于自己使用
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
